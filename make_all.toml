@@ -1,0 +1,10 @@
+name = "BytekTron_v1_0"
+default_targets = ["win32", "win64"]
+build_directory  = "build"
+love_files = [
+"+*",
+"-*/.*",
+"-./bin/*",
+"-./build/*",
+"-./dist/*"
+]

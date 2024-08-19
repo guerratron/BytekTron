@@ -1,0 +1,7 @@
+Las imágenes de fondos interesan que tengan la misma relación de aspecto que la pantalla creada. Esto viene definido en el archivo "conf.lua" como globales:
+  Ancho: gw = 480
+  Alto:   gh = 270
+
+CREDITS:
+Algunas imágenes descargadas de "freepik": 
+<a href="https://www.freepik.es/foto-gratis/cielo-estrellado_7061153.htm#query=fondo%20estrellado&position=0&from_view=keyword&track=ais_user&uuid=d02fe2eb-9a29-4c3b-bd3f-751f43c93742">Imagen de kjpargeter</a> en Freepik
