@@ -8,7 +8,7 @@
 > Idea Original: **[a327ex](https://a327ex.com/)**  
 > Versión: 1.0.0  
 > Proyect:    BytekTron Lua-Löve      Package: /               Entry-Point: main.lua  
-> 
+>  Publicado en itchio: <https://guerratron.itch.io/bytecktron>
 > ----------------------------------------------------------------------------------------------------  
 
 <h3>🖇️ Tabla de contenidos</h3>
